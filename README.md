@@ -2,6 +2,12 @@
 
 A responsive personal portfolio built with plain HTML, CSS, and JavaScript. It includes profile sections, project cards, three short learning notes, social links, and a mobile navigation menu.
 
+
+## 🚀 Demo
+
+**Live Demo:** : https://advik-bhat.github.io/personal-portfolio/
+
+
 ## Run locally
 
 1. Download or clone this repository.
